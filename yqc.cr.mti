@@ -1,0 +1,29 @@
+C:/Users/30514/Desktop/wdzy/operation_control.v {1 {vlog -work work -vopt -stats=none C:/Users/30514/Desktop/wdzy/operation_control.v
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module operation_control
+
+Top level modules:
+	operation_control
+
+} {} {}} C:/Users/30514/Desktop/wdzy/yqc_jisuanqi_tb.v {1 {vlog -work work -vopt -stats=none C:/Users/30514/Desktop/wdzy/yqc_jisuanqi_tb.v
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module tb_yqc_jisuanqi
+
+Top level modules:
+	tb_yqc_jisuanqi
+
+} {} {}} C:/Users/30514/Desktop/wdzy/display_control.v {1 {vlog -work work -vopt -stats=none C:/Users/30514/Desktop/wdzy/display_control.v
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module display_control
+
+Top level modules:
+	display_control
+
+} {} {}} C:/Users/30514/Desktop/wdzy/yqc_jisuanqi.v {1 {vlog -work work -vopt -stats=none C:/Users/30514/Desktop/wdzy/yqc_jisuanqi.v
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module yqc_jisuanqi
+
+Top level modules:
+	yqc_jisuanqi
+
+} {} {}}
